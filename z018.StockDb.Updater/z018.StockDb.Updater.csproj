@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\z018.EodHistoricalData\z018.EodHistoricalData.csproj" />
+    <ProjectReference Include="..\z018.StockDb\z018.StockDb.csproj" />
+  </ItemGroup>
+
+</Project>
