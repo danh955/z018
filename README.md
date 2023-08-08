@@ -1,4 +1,5 @@
 # z018
 
-## Notes
-Based on https://github.com/danh955/z018
+Get [EOD Historical Data](https://eodhd.com/) and update a Microsoft SQL database.
+
+This was a test project.
